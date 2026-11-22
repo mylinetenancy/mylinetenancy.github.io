@@ -68,6 +68,8 @@ ul li a {
     margin-bottom: 32px;
     background-color: rgb(228, 0, 89);
     border-radius: 15px;
+    max-width: 30%;
+    min-width: 100%;
 }
 
 .header h1 {
