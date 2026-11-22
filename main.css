@@ -20,6 +20,8 @@ https://templatemo.com/tm-609-crypto-vault
     color: black;
     line-height: 40px;
     text-align: center;
+    max-width: 30%;
+    min-width: 100%;
 }
 #navibar ul {
     list-style: none;
